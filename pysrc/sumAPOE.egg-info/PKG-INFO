@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: sumAPOE
+Version: 0.1.0
+Summary: APOE proteomics utilities and loaders
+Requires-Python: >=3.10
+License-File: LICENSE
+Requires-Dist: pandas
+Requires-Dist: numpy
+Dynamic: license-file

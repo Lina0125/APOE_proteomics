@@ -1,0 +1,2 @@
+"Protein_id","coef_x2m","coef_x2y","coef_m2y","acme","acme_p","ade","ade_p","total","total_p","prop_m","prop_m_p","prop_m_ci_lower","prop_m_ci_upper","p_adjusted","ade_p_adjusted","prop_m_p_adjusted","symbol","UniProt","label"
+"COL16A1_Q07092_MS",0.576327901260742,-0.631009103615076,0.149064793630087,0.0167534323955886,0.712,-0.123869416020652,0.146,-0.107115983625063,0.122,-0.156404598348556,0.714,-3.31212459016206,1.88099091077417,0.712,0.146,0.714,"COL16A1","Q07092","COL16A1"

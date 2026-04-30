@@ -1,0 +1,2 @@
+"Protein_id","coef","standardized_beta","se","t","p","R_squared","R_squared_adj","resid","CI95_lower","CI95_upper","p_adjusted","symbol","uniprot","label"
+"LDLR__Cardiometabolic_o2csf__NPX",0.00369939518174172,0.190061588922723,0.00277308277912276,1.33403705421011,0.182937685215714,0.669916684841126,0.665861607259322,407,-0.00175195794913183,0.00915074831261527,0.182937685215714,"LDLR","P01130","LDLR"

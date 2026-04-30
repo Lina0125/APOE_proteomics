@@ -1,0 +1,2 @@
+"Protein_id","coef_x2m","coef_x2y","coef_m2y","acme","acme_p","ade","ade_p","total","total_p","prop_m","prop_m_p","prop_m_ci_lower","prop_m_ci_upper","p_adjusted","ade_p_adjusted","prop_m_p_adjusted","symbol","uniprot","label"
+"LDLR__Cardiometabolic_o2csf__NPX",0.0038797677799062,0.188083941575281,-0.0182053251466678,0.000189638803611124,0.948,0.188083941575281,0,0.188273580378892,0,0.00100725127354292,0.948,-0.0281813561230697,0.0249901331627464,0.948,0,0.948,"LDLR","P01130","LDLR"

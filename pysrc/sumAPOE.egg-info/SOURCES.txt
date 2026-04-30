@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+pysrc/sumAPOE/__init__.py
+pysrc/sumAPOE/loader.py
+pysrc/sumAPOE/utils.py
+pysrc/sumAPOE.egg-info/PKG-INFO
+pysrc/sumAPOE.egg-info/SOURCES.txt
+pysrc/sumAPOE.egg-info/dependency_links.txt
+pysrc/sumAPOE.egg-info/requires.txt
+pysrc/sumAPOE.egg-info/top_level.txt
