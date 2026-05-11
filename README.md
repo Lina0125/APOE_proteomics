@@ -12,7 +12,6 @@ This repository contains code and result files for the analysis of *APOE* genoty
 │   ├── setting.R           # Analysis settings for main_local.R
 │   ├── snp.R               # SNP summary for coding genes of key mediators
 │   └── src.R               # Functions for statistics and visualization
-├── generate_ctd.ipynb
 ├── r2correlation.ipynb     # Direct comparison of measurements within a cohort
 ├── results_summarize.ipynb # Result summarization and cross-cohort comparison
 ├── pyproject.toml
