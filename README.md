@@ -40,7 +40,7 @@ pip install -e .
 For analyses and plots in R, creating an RStudio Project for this repository is recommended.
 
 # Reference
-Lu, L. et al. Proteomic signatures of the *APOE* ε4 and *APOE* ε2 genetic variants and Alzheimer’s disease. medRxiv 2025.08.04.25332945 (2025) doi:10.1101/2025.08.04.25332945.
+Lu, L., Pichet Binette, A., Hristovska, I. et al. Proteomic signatures of the APOE ε4 and APOE ε2 genetic variants and Alzheimer’s disease. Nat Aging (2026). https://doi.org/10.1038/s43587-026-01123-0.
 
 # Contact
 If you encounter any issues, bugs, or have questions about the code or results, please contact or open an issue:
